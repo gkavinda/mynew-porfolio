@@ -319,5 +319,14 @@ form input, form textarea{
         outline: none;
         background: #262626;
         padding: 15px;
-        margin
+        margin: 15px 0;
+        color: #fff;
+        font-size: 18px;
+        border-radius: 6px;
+}
+form btn2{
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
 }
